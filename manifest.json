@@ -1,6 +1,6 @@
 {
-  "name": "placement-assessment-app",
-  "short_name": "Clinovra",
+  "name": "Assessment-app",
+  "short_name": "Assessment",
   "description": "A modern application for medical clinic management.",
   "start_url": ".",
   "display": "standalone",
