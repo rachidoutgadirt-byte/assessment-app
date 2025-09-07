@@ -1,4 +1,4 @@
-const CACHE_NAME = 'placement-assessment-app';
+const CACHE_NAME = 'Assessment-app';
 const URLS_TO_CACHE = [
   '/', // يمثل الصفحة الرئيسية
   '/index.html' // اسم ملف HTML الرئيسي الخاص بك
